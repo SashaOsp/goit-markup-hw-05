@@ -117,3 +117,6 @@ h3 {
   text-decoration: none;
   transition: color 0.3s;
 }
+.nav-link {
+  color: #2e2f42 !important;
+}
