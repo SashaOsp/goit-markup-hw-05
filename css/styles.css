@@ -22,24 +22,9 @@ a {
   text-decoration: none;
 }
 
-.top-nav ul a {
-  color: #2e2f42;
-  text-decoration: none;
-}
-
 .hero-btn:hover,
 .hero-btn:focus {
   background: #404bbf;
-}
-
-.top-nav ul a:hover,
-.top-nav ul a:focus {
-  color: #404bbf;
-}
-
-.top-address a {
-  color: #434455;
-  text-decoration: none;
 }
 
 .hero-box {
