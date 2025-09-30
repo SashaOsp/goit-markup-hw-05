@@ -125,3 +125,13 @@ h3 {
   text-decoration: none;
   transition: color 0.3s;
 }
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
