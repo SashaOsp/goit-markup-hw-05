@@ -51,9 +51,6 @@ a {
   background: #4d5ae5;
   cursor: pointer;
 }
-.hero-btn:hover {
-  background: #404bbf;
-}
 
 p {
   font-family: "Roboto", sans-serif;
