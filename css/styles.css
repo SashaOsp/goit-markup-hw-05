@@ -87,32 +87,3 @@ h3 {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
-.logo {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-  text-decoration: none;
-}
-.logo-span {
-  color: #2e2f42;
-}
-
-.nav-list .nav-link:first-child {
-  font-weight: 500;
-}
-
-.top-address {
-  font-style: normal;
-}
-
-.nav-link:hover,
-.nav-link:focus,
-.address-link:hover,
-.address-link:focus {
-  color: #404bbf;
-}
