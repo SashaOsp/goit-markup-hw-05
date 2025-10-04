@@ -95,12 +95,12 @@ body {
   background-color: #404bbf;
 }
 /*---Features Section---*/
-.features-section {
-  background-color: #2e2f42;
-}
 /*---Our Team Section---*/
 .team-section {
   background-color: #f4f4fd;
+}
+.team-item {
+  background-color: #ffffff;
 }
 /*---Our Portfolio Section---*/
 
