@@ -42,11 +42,11 @@ body {
 .nav-list {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   text-decoration: none;
 }
 .nav-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .nav-link:hover,
@@ -58,11 +58,11 @@ body {
 }
 .address-list {
   font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   text-decoration: none;
 }
 .address-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .address-link:hover,
