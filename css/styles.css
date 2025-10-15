@@ -178,6 +178,16 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+.features-item .subtitle {
+  margin-bottom: 8px;
+}
 /*---Our Team Section---*/
 .team-section {
   background-color: #f4f4fd;
