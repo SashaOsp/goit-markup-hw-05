@@ -83,10 +83,10 @@ img {
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
+  margin-right: 76px;
 }
 .header-logo .header-logo-span {
   color: #2e2f42;
-  margin-right: 76px;
 }
 .nav {
   display: flex;
