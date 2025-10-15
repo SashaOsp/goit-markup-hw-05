@@ -14,7 +14,7 @@ body {
   padding-bottom: 120px;
 }
 .container {
-  width: 100%;
+  width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -65,6 +65,7 @@ img {
 /*---Header---*/
 .header {
   padding: 24px 0;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header .container {
   display: flex;
@@ -85,11 +86,11 @@ img {
 }
 .header-logo .header-logo-span {
   color: #2e2f42;
+  margin-right: 76px;
 }
 .nav {
   display: flex;
   align-items: center;
-  gap: 76px;
 }
 .nav-list {
   display: flex;
@@ -102,6 +103,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .nav-link:hover,
 .nav-link:focus {
