@@ -361,7 +361,7 @@ img {
 }
 .footer .container {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
 }
 .footer-logo-container {
   margin-right: 120px;
@@ -382,7 +382,7 @@ img {
 .footer-social-icons-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 .footer-social-icons-item {
   height: 40px;
@@ -398,7 +398,7 @@ img {
   width: 100%;
 }
 .footer-social-icon {
-  fill: currentColor;
+  fill: #f4f4fd;
 }
 .footer-social-icons-item:hover,
 .footer-social-icons-item:focus {
