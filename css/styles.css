@@ -253,11 +253,14 @@ img {
 .team-item-container .text {
   text-align: center;
 }
+.team-section .text {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
 .team-social-icons-list {
   display: flex;
   justify-content: center;
   gap: 24px;
-  margin-top: 8px;
 }
 .team-social-icons-item {
   height: 40px;
